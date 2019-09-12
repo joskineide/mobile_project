@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ciclo de Vida GPS e Mapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_box">Oque deseja pesquisar por?</string>
+    <string name="no_gps_no_app">Senhor, porque você instalou um app de geolocalização e não quer que use seu gps?</string>
+    <string name="button_send">Buscar</string>
+</resources>
